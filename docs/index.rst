@@ -1,4 +1,4 @@
-Localization Guide
+本地化指南
 ******************
 
 .. First draft to get things going
@@ -9,7 +9,7 @@ Localization Guide
    guide/start
    guide/glossary
 
-Language Information
+语言信息
 ====================
 
 .. toctree:: 
