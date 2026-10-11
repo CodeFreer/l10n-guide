@@ -7,7 +7,7 @@ Translate 的本地化指南
 
 历史
 -------
-本指南先前托管在 `Translate's old wiki <http://translate.sourceforge.net/wiki/>`_.
+原英文指南先前托管在 `Translate's old wiki <http://translate.sourceforge.net/wiki/>`_.
 
 版权
 ---------
