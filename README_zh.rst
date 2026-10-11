@@ -1,6 +1,7 @@
 Translate 的本地化指南
 ==============================
->本指南基于 <https://github.com/translate/l10n-guide> 进行中文翻译，若阅读过程中有疑问，请以原英文内容为准。
+.. note::
+本指南基于 <https://github.com/translate/l10n-guide> 进行中文翻译，若阅读过程中有疑问，请以原英文内容为准。
 
 一份由 Translate 编写的本地化指南，旨在帮助教育和促进在本地化方面的最佳体验。
 
